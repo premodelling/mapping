@@ -1,5 +1,5 @@
 
-### Development Environment
+### IntelliJ IDEA R Development Environment
 
 * Edit the help file skeletons in 'man', possibly combining help files
   for multiple functions.
