@@ -1,9 +1,5 @@
 <br>
 
-**Mapping**
-
-<br>
-
 ### Notes
 
 The notebook
