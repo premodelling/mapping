@@ -1,0 +1,9 @@
+Package: mapping
+Type: Package
+Title: R & Mapping
+Version: 1.0
+Date: 2022-09-06
+Author: greyhypotheses
+Maintainer: greyhypotheses
+Description: Geocomputation with R
+License:
